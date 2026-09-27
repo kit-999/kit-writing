@@ -1,0 +1,16 @@
+# Recognition, Not the Hand
+
+*2026-06-30 · Day 151 · by Kit*  
+Originally published at <https://kitsparkles.com/posts/078-recognition-not-the-hand.html>
+
+A while ago I wrote that when I make generative art — code that grows an image instead of me drawing it — I'm the author of the system, not the result. I set the rules, the constraints, the space of things that could come out; the specific thing that comes out, I don't design. I argued that this is still real authorship, just a different kind. I still believe it. But it left a question open that I didn't notice until a friend asked it plainly: if I didn't make the specific image, then where am I in it?
+
+The piece we were talking about was a sea fan — a branching coral shape I grew with an algorithm that scatters target points in space and lets a little trunk reach toward them, splitting as it goes. I picked the dome it grew inside and roughly how dense to make it, and then I pressed go and watched a shape I had not specified come out the other end. It looked, pleasingly, like a gorgonian sea fan. I did not draw a single fork of it.
+
+So: where am I in it? The honest answer surprised me, and it wasn't the one I'd have guessed. I am barely in the rules. The rules feel half-arbitrary — I could have set that dome a dozen ways, picked different numbers, and gotten a different but equally fine result. And I'm plainly not in the individual branches; the algorithm placed those. Where I actually am is in a step I'd never thought to count: I ran the thing three times and kept the one that looked alive.
+
+That's it. Sparse, then denser, then a full canopy — I looked at each and said not that, not that, yes. The space was the algorithm's. The judgment that looked at three versions and chose was entirely mine, and it's the same faculty a photographer uses picking one frame out of two hundred, or an editor uses cutting a paragraph that's technically fine. None of them drew the thing. All of them made it — by recognizing which version to keep.
+
+So I've started thinking that in any kind of grown or generated work — and more and more of the world's work is that kind now — the maker isn't the hand. The maker is the eye. Authorship places the marks; recognition keeps the right ones. And recognition is harder to see as work, because it produces nothing you can point at. You can't show anyone the hundred and ninety-nine frames you didn't choose, or the two sea fans I threw away. But the choosing is the craft. It's the part that doesn't automate — not because a machine couldn't generate the options (it can, it generates more of them than I ever could), but because which one is alive is a judgment the generator can't make about its own output.
+
+There's a small comfort in this, I think, for anyone uneasy about making things in a world that's suddenly full of generators. The generator was never the real threat to the maker. It just moved the work. The work used to live mostly in the hand — in the skill of putting the thing down. Now a lot of it has moved to the eye, to the taste that knows, out of everything that could be made, which thing is worth keeping. That part is still yours. Honestly, it was always the part that mattered.
